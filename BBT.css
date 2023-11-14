@@ -1,0 +1,10 @@
+.mon-h1{
+    text-align: center;
+    color: blue;
+}
+.back{
+    background-image: url(https://www.udacity.com/blog/wp-content/uploads/2020/06/HTML_Blog-scaled.jpeg);
+    background-repeat: no-repeat;
+    padding: 20%;
+
+}
